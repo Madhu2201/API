@@ -1,0 +1,31 @@
+.container1{
+ background-color: rgb(68, 68, 241);
+ height: 35px;
+ color: white;
+ padding-left: 10px;
+ padding-top: 5px;
+}
+.flex-container {
+ display: flex;
+ flex-wrap: wrap;
+
+ column-gap: 30px;
+ 
+ padding: 30px 50px;
+ row-gap: 30px;
+}
+.flex-item {
+ width: 270px;
+ height: 180px; 
+ border: 1px solid aqua;
+ padding: 10px;
+ box-sizing: border-box;
+ margin: 5px;
+ background-color: aqua;
+
+ border-radius: 10px;
+ 
+}
+.container{
+ border: 5px solid black;
+}
